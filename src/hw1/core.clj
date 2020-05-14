@@ -2,6 +2,7 @@
   (:require [clojure.tools.trace :as t])
   (:gen-class))
 
+;;This is testing basic Clojure knowledge
 
 
 (defn times3
