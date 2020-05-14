@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"read-line"
+			],
+			[
+				"read-",
+				"read-string"
+			],
+			[
+				"not-",
+				"not-empty"
+			],
+			[
+				"format-",
+				"format-cars"
+			],
+			[
+				"product",
+				"product-two"
+			],
+			[
+				"produc",
+				"product-maker"
+			],
+			[
+				"produ",
+				"product-maker"
+			],
+			[
+				"empty",
+				"empty?"
+			],
+			[
+				"empt",
+				"empty?"
+			],
+			[
+				"sym",
+				"symbol?"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rep",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"repl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"sublim",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"lein;",
+			"lein repl;",
+			"lein repl",
+			"lein",
+			"repl",
+			"os.getenv(\"path\")",
+			"os.getenv()",
+			"os.getenv",
+			"os",
+			"os.getenv(“PATH”)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Michael'sPC/Documents/CPSC PLT/hw3/test/hw3/core_test.clj",
+		"/C/Users/Michael'sPC/Documents/CPSC PLT/hw3/project.clj",
+		"/C/Users/Michael'sPC/Downloads/hw3 (2)/hw3/src/hw3/nim.clj",
+		"/C/Users/Michael'sPC/Downloads/hw3 (2)/hw3/src/hw3/core.clj",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-10851942213054758799.edn",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-12826068375890407142.edn",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-3253339723350310641.edn",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-5105527008826404726.edn",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-14675923737393322527.edn",
+		"/C/Users/Michael'sPC/Downloads/hw3/hw3/src/hw3/core.clj",
+		"/C/Users/Michael'sPC/Documents/CPSC PLT/hw1/test/hw1/core_test.clj",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-14747551196308872666.edn",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-15374227174250252806.edn",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-8208016386071931603.edn",
+		"/C/Users/Michael'sPC/Downloads/hw2/hw2/src/hw2/core.clj",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/form-init14256804505056094583.clj",
+		"/C/Users/Michael'sPC/AppData/Local/Temp/clojure-3262597337031054624.edn",
+		"/C/Users/Michael'sPC/Documents/CPSC PLT/hw1/project.clj",
+		"/C/Users/Michael'sPC/Documents/CPSC PLT/tools/src/tools/core.clj",
+		"/C/Users/Michael'sPC/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Clojure/Main.sublime-menu",
+		"/C/Users/Michael'sPC/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Michael'sPC/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Michael'sPC/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Sublime/Main.sublime-menu",
+		"/C/Users/Michael'sPC/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL/config/Clojure/Main.sublime-menu",
+		"/C/Users/Michael'sPC/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Michael'sPC/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/Main.sublime-menu"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Leiningen/Leiningen.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
